@@ -20871,7 +20871,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function.prototype.exps.Call,
 	cr.system_object.prototype.cnds.Compare,
 	cr.plugins_.Sprite.prototype.exps.Count,
-	cr.plugins_.Sprite.prototype.exps.AnimationFrameCount,
 	cr.plugins_.Sprite.prototype.exps.Height,
 	cr.plugins_.Sprite.prototype.acts.SetAnim,
 	cr.system_object.prototype.cnds.While,
